@@ -50,5 +50,5 @@
 
 ## 6. 생성형 AI 활용 결과
 
-- **예시 1: 전국 시/도별 인구 10만 명당 교통사고 발생 건수
+- **예시 1**: 전국 시/도별 인구 10만 명당 교통사고 발생 건수
 ![example](https://github.com/user-attachments/assets/0a91427e-eca9-46b5-a204-8ae51d4e5273)
