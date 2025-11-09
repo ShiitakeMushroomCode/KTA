@@ -1,0 +1,7 @@
+pandas
+geopandas
+matplotlib
+seaborn
+folium
+scikit-learn
+lightgbm
